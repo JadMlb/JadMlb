@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Passionate for technology and science since my childhood, I to become a Software Engineer to develop useful applications that will have deep impact. Currently during the fourth year of my studies, I'm motivated to sign a professionalisation contract for next year, starting September 2024.<br>📌 Between studies and life, I manage to work on side projects using React, Java and more.
+🔭 Passionate for technology and science since my childhood, I became a Software Engineer to develop useful applications that will have deep impact. Currently during the fourth year of my studies, I'm motivated to sign a professionalisation contract for next year, starting September 2024.<br>📌 Between studies and life, I manage to work on side projects using React, Java and more.
 
 
 ## 🌐 Socials:
